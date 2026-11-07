@@ -1,0 +1,12 @@
+{
+  "start": "09:30:05",
+  "deadline": "14:30",
+  "buy_limit_bps": 30,
+  "sell_limit_bps": 100,
+  "qdii_poll_seconds": 60,
+  "quote_max_age_seconds": 60,
+  "sell_wait_seconds": 300,
+  "buy_wait_seconds": 300,
+  "sell_attempts": 2,
+  "qdii_codes": ["513100.SH","513500.SH"]
+}
